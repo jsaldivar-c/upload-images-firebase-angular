@@ -6,7 +6,7 @@ Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-
 
 <br>
 
-![FirebaseUploadImages](resources/portada.png "FirebaseUploadImages | Angular")
+![FirebaseUploadImages](src/assets/carga-fotos-firebase.png "FirebaseUploadImages | Angular")
 
 <br>
 
